@@ -1,0 +1,4 @@
+html {
+    background-image: linear-gradient(red, skyblue, yellow);
+    background-attachment: fixed;
+}
